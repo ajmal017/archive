@@ -1,0 +1,721 @@
+{
+    "match": 1,
+	"week": 4,
+	"winnerId": 88,
+    "players": [
+        {
+            "name": "RED Gratrix",
+            "_id": 0
+        },
+        {
+            "name": "Twitch.Sparkdog_",
+            "_id": 1
+        },
+        {
+            "name": "MonsterDface",
+            "_id": 2
+        },
+        {
+            "name": "Twitch Pack_",
+            "_id": 3
+        },
+        {
+            "name": "Reverse2k_TTV",
+            "_id": 4
+        },
+        {
+            "name": "100T Parallax",
+            "_id": 5
+        },
+        {
+            "name": "GS Nazgul",
+            "_id": 6
+        },
+        {
+            "name": "MunchGawd",
+            "_id": 7
+        },
+        {
+            "name": "Nick Eh 30",
+            "_id": 8
+        },
+        {
+            "name": "Brushh",
+            "_id": 9
+        },
+        {
+            "name": "GotagaTV",
+            "_id": 10
+        },
+        {
+            "name": "GamingWithGarry",
+            "_id": 11
+        },
+        {
+            "name": "Cerialer",
+            "_id": 12
+        },
+        {
+            "name": "NotVivid",
+            "_id": 13
+        },
+        {
+            "name": "chelcgrin",
+            "_id": 14
+        },
+        {
+            "name": "TTV.iMPistoLa",
+            "_id": 15
+        },
+        {
+            "name": "TTV DexelStar",
+            "_id": 16
+        },
+        {
+            "name": "CovertGG.",
+            "_id": 17
+        },
+        {
+            "name": "KevinLaSean",
+            "_id": 18
+        },
+        {
+            "name": "vvPunisher",
+            "_id": 19
+        },
+        {
+            "name": "Tempo Payne",
+            "_id": 20
+        },
+        {
+            "name": "Bartonologist",
+            "_id": 21
+        },
+        {
+            "name": "Typical Gamer",
+            "_id": 22
+        },
+        {
+            "name": "TwitchS0FA_",
+            "_id": 23
+        },
+        {
+            "name": "reaverlol",
+            "_id": 24
+        },
+        {
+            "name": "NMS PainfulPVP",
+            "_id": 25
+        },
+        {
+            "name": "imtimthetatman",
+            "_id": 26
+        },
+        {
+            "name": "HighDistortion",
+            "_id": 27
+        },
+        {
+            "name": "Arrington",
+            "_id": 28
+        },
+        {
+            "name": "yoyokeepitup.tv",
+            "_id": 29
+        },
+        {
+            "name": "TSM_Daequan",
+            "_id": 30
+        },
+        {
+            "name": "Knights ZexRow",
+            "_id": 31
+        },
+        {
+            "name": "OPscT",
+            "_id": 32
+        },
+        {
+            "name": "Ninja",
+            "_id": 33
+        },
+        {
+            "name": "RequiemSlaps",
+            "_id": 34
+        },
+        {
+            "name": "Involve_TV",
+            "_id": 35
+        },
+        {
+            "name": "Ghost Saf",
+            "_id": 36
+        },
+        {
+            "name": "TopgunSmurf",
+            "_id": 37
+        },
+        {
+            "name": "Twitch Nycoking",
+            "_id": 38
+        },
+        {
+            "name": "pookieface_",
+            "_id": 39
+        },
+        {
+            "name": "MoNsTcR",
+            "_id": 40
+        },
+        {
+            "name": "Hardyofficial",
+            "_id": 41
+        },
+        {
+            "name": "Turkey_lips.TV",
+            "_id": 42
+        },
+        {
+            "name": "DS RmpgeTV",
+            "_id": 43
+        },
+        {
+            "name": "ProHenis",
+            "_id": 44
+        },
+        {
+            "name": "Hysteria",
+            "_id": 45
+        },
+        {
+            "name": "TemptedLive",
+            "_id": 46
+        },
+        {
+            "name": "Im_Murksman",
+            "_id": 47
+        },
+        {
+            "name": "Twitch BlooTea",
+            "_id": 48
+        },
+        {
+            "name": "Nox_The_Fox.TTV",
+            "_id": 49
+        },
+        {
+            "name": "YungChungTV",
+            "_id": 50
+        },
+        {
+            "name": "KingRichard215",
+            "_id": 51
+        },
+        {
+            "name": "coL Hogman",
+            "_id": 52
+        },
+        {
+            "name": "Liquid72hrs",
+            "_id": 53
+        },
+        {
+            "name": "MasunD",
+            "_id": 54
+        },
+        {
+            "name": "Twitch SoapPM",
+            "_id": 55
+        },
+        {
+            "name": "HEART",
+            "_id": 56
+        },
+        {
+            "name": "TSM_Myth",
+            "_id": 57
+        },
+        {
+            "name": "Aragon",
+            "_id": 58
+        },
+        {
+            "name": "Twitch Ranger",
+            "_id": 59
+        },
+        {
+            "name": "coL Pupper",
+            "_id": 60
+        },
+        {
+            "name": "tendons.tv",
+            "_id": 61
+        },
+        {
+            "name": "BaySoldier",
+            "_id": 62
+        },
+        {
+            "name": "SypherPK",
+            "_id": 63
+        },
+        {
+            "name": "DrLupo",
+            "_id": 64
+        },
+        {
+            "name": "Twitch AnteeDote",
+            "_id": 65
+        },
+        {
+            "name": "FunkBomb",
+            "_id": 66
+        },
+        {
+            "name": "Twitch Tienn",
+            "_id": 67
+        },
+        {
+            "name": "LG Kweo",
+            "_id": 68
+        },
+        {
+            "name": "Saint",
+            "_id": 69
+        },
+        {
+            "name": "Annialis",
+            "_id": 70
+        },
+        {
+            "name": "RED Nolan",
+            "_id": 71
+        },
+        {
+            "name": "NRG Kaysid",
+            "_id": 72
+        },
+        {
+            "name": "KittyPlays-",
+            "_id": 73
+        },
+        {
+            "name": "OpTicBaldy",
+            "_id": 74
+        },
+        {
+            "name": "TSM_Hamlinz",
+            "_id": 75
+        },
+        {
+            "name": "RED Calebur",
+            "_id": 76
+        },
+        {
+            "name": "eU Ashton",
+            "_id": 77
+        },
+        {
+            "name": "TwitchTvFuzzy301",
+            "_id": 78
+        },
+        {
+            "name": "Symfuhny",
+            "_id": 79
+        },
+        {
+            "name": "LiquidChap",
+            "_id": 80
+        },
+        {
+            "name": "SoaR_Devious",
+            "_id": 81
+        },
+        {
+            "name": "Liquid Strafe",
+            "_id": 82
+        },
+        {
+            "name": "Kiwiface TTV",
+            "_id": 83
+        },
+        {
+            "name": "NRG General",
+            "_id": 84
+        },
+        {
+            "name": "Ghost Bizzle",
+            "_id": 85
+        },
+        {
+            "name": "Twitch Fulmer",
+            "_id": 86
+        },
+        {
+            "name": "Liquid POACH",
+            "_id": 87
+        },
+        {
+            "name": "Not Tfue",
+            "_id": 88
+        }
+    ],
+    "kills": [
+        [
+            0,
+            46
+        ],
+        [
+            1,
+            78
+        ],
+        [
+            2,
+            22
+        ],
+        [
+            3,
+            56
+        ],
+        [
+            4,
+            26
+        ],
+        [
+            5,
+            77
+        ],
+        [
+            6,
+            36
+        ],
+        [
+            7,
+            25
+        ],
+        [
+            8,
+            "Landing (19m)"
+        ],
+        [
+            9,
+            84
+        ],
+        [
+            10,
+            35
+        ],
+        [
+            11,
+            19
+        ],
+        [
+            12,
+            52
+        ],
+        [
+            13,
+            78
+        ],
+        [
+            14,
+            58
+        ],
+        [
+            15,
+            57
+        ],
+        [
+            16,
+            69
+        ],
+        [
+            17,
+            41
+        ],
+        [
+            18,
+            61
+        ],
+        [
+            19,
+            53
+        ],
+        [
+            20,
+            83
+        ],
+        [
+            21,
+            36
+        ],
+        [
+            22,
+            38
+        ],
+        [
+            23,
+            42
+        ],
+        [
+            24,
+            62
+        ],
+        [
+            25,
+            43
+        ],
+        [
+            26,
+            88
+        ],
+        [
+            27,
+            47
+        ],
+        [
+            28,
+            62
+        ],
+        [
+            29,
+            73
+        ],
+        [
+            30,
+            33
+        ],
+        [
+            31,
+            50
+        ],
+        [
+            32,
+            38
+        ],
+        [
+            33,
+            46
+        ],
+        [
+            34,
+            68
+        ],
+        [
+            35,
+            40
+        ],
+        [
+            36,
+            "BANG!"
+        ],
+        [
+            37,
+            72
+        ],
+        [
+            38,
+            55
+        ],
+        [
+            39,
+            42
+        ],
+        [
+            40,
+            84
+        ],
+        [
+            41,
+            80
+        ],
+        [
+            42,
+            81
+        ],
+        [
+            43,
+            47
+        ],
+        [
+            44,
+            58
+        ],
+        [
+            45,
+            49
+        ],
+        [
+            46,
+            87
+        ],
+        [
+            47,
+            78
+        ],
+        [
+            48,
+            72
+        ],
+        [
+            49,
+            57
+        ],
+        [
+            50,
+            "NRG Zayt"
+        ],
+        [
+            51,
+            64
+        ],
+        [
+            52,
+            81
+        ],
+        [
+            53,
+            57
+        ],
+        [
+            54,
+            65
+        ],
+        [
+            55,
+            72
+        ],
+        [
+            56,
+            72
+        ],
+        [
+            57,
+            68
+        ],
+        [
+            58,
+            65
+        ],
+        [
+            59,
+            86
+        ],
+        [
+            60,
+            62
+        ],
+        [
+            61,
+            62
+        ],
+        [
+            62,
+            65
+        ],
+        [
+            63,
+            68
+        ],
+        [
+            64,
+            82
+        ],
+        [
+            65,
+            68
+        ],
+        [
+            66,
+            80
+        ],
+        [
+            67,
+            68
+        ],
+        [
+            68,
+            70
+        ],
+        [
+            69,
+            70
+        ],
+        [
+            70,
+            72
+        ],
+        [
+            71,
+            82
+        ],
+        [
+            72,
+            85
+        ],
+        [
+            73,
+            79
+        ],
+        [
+            74,
+            77
+        ],
+        [
+            75,
+            87
+        ],
+        [
+            76,
+            "Storm"
+        ],
+        [
+            77,
+            79
+        ],
+        [
+            78,
+            85
+        ],
+        [
+            79,
+            84
+        ],
+        [
+            80,
+            88
+        ],
+        [
+            81,
+            87
+        ],
+        [
+            82,
+            "Storm"
+        ],
+        [
+            83,
+            "Storm"
+        ],
+        [
+            84,
+            85
+        ],
+        [
+            85,
+            87
+        ],
+        [
+            86,
+            "Storm"
+        ],
+        [
+            87,
+            "Storm"
+        ],
+        [
+            88,
+            null
+        ]
+    ]
+}
