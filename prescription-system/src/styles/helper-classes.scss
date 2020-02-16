@@ -1,0 +1,101 @@
+@import './layout.scss';
+
+.inline {
+	display: inline;
+}
+
+.text-align-left {
+	text-align: left;
+}
+.text-align-right {
+	text-align: right;
+}
+.text-align-center {
+	text-align: center;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.capitalize {
+	text-transform: capitalize;
+}
+
+.font-bold {
+	font-weight: 700;
+}
+
+.font-semibold {
+	font-weight: 600;
+}
+
+.font-regular {
+	font-weight: 400;
+}
+
+.font-light {
+	font-weight: 300;
+}
+
+.font-author {
+	font-size: 0.8rem;
+	color: $grey-pale;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	margin-bottom: 1.5rem;
+}
+
+.flex {
+	display: flex;
+}
+
+.flex-start{
+	align-self: flex-start;
+}
+
+.flex-start-content{
+	justify-content: flex-start;
+}
+
+.flex-end{
+	align-self: flex-end;
+}
+
+.flex-end-content{
+	justify-content: flex-end;
+}
+
+.flex-row {
+	flex-direction: row;
+}
+
+.flex-column {
+	flex-direction: column;
+}
+
+.space-around {
+	justify-content: space-around;
+}
+
+.cursor-pointer {
+	cursor: pointer;
+}
+
+.responsive-col {
+	flex-basis: auto;
+	margin-bottom: 1rem;
+
+	@media all and (min-width: $tablet){
+		-ms-flex-preferred-size: 0;
+		flex-basis: 0;
+		-ms-flex-positive: 1;
+		-webkit-box-flex: 1;
+		flex-grow: 1;
+		max-width: 100%;
+	}
+}
+
+.break-word {
+	word-break: break-word;
+}

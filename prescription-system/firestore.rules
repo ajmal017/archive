@@ -1,0 +1,41 @@
+service cloud.firestore {
+
+	match /databases/{database}/documents {
+
+		match /{document=**} {
+			allow read: if false;
+			allow write: if false;
+		}
+
+		match /users/{key} {
+			allow read: if request.auth.uid == key;
+			allow write: if request.auth.uid == key;
+		}
+
+		// match /module-types/{key} {
+		// 	allow read: if signedIn();
+		// 	allow write: if signedIn();
+		// }
+
+		// match /templates/{key} {
+		// 	allow read: if signedIn();
+		// 	allow write: if signedIn();
+		// }
+
+		// match /prescriptions/{key} {
+		// 	allow read: if signedIn();
+		// 	allow write: if signedIn();
+		// }
+
+		function nothingExists() {
+			return resource == null;
+		}
+		function signedIn() {
+			return request.auth.uid != null;
+		}
+		function isMine() {
+			return resource.authorId == request.auth.uid;
+		}
+
+	}
+}

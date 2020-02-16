@@ -1,0 +1,32 @@
+{
+	"rules": {
+		".read": false,
+		".write": false,
+
+		"_counts": {
+			".read": "auth != null"
+		},
+
+		"users": {
+			"$key": {
+				".read": "$key === auth.uid",
+				".write": "$key === auth.uid"
+			}
+		},
+
+		"templates": {
+			".read": "auth != null",
+			"$key": {
+				".write": "auth != null && !data.exists()"
+			}
+		},
+
+		"prescriptions": {
+			".read": "auth != null",
+			"$key": {
+				".write": "auth != null && !data.exists()"
+			}
+		}
+
+	}
+}
