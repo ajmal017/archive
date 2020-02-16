@@ -1,0 +1,40 @@
+/**
+ * Settings.scss
+ *
+ * This is where style configs for the website are kept. When using these variables
+ * in components it's a good idea to declare them at the top to avoid becoming
+ * overly dependent on the state of this file.
+ *
+ * #Todo: find a way to link the styles set through vuetify + bootstrap's variants ('success' / 'info' / 'error') to here
+ * #Todo: find a way to store breakpoints (mobile, tablet, desktop) in one location that can be used here and for vue-mq (see main.js)
+ */
+
+/* Colours */
+$White: #FFFFFC;
+$Black: #0a0a0a;
+$Grey: #f5f5f5f5;
+$Yellow: #E0FF4F;
+$Orange: #f44708;
+$Red: #DB2929;
+$Blue: #273469;
+
+/* Colour Config */
+$Background-Colour: $Black;
+$Theme-Colour: $Grey;
+$Highlight-Colour: $Yellow;
+$Text-Colour: $White;
+$Danger-Colour: $Red;
+
+
+/* Fonts */
+$Poppin: 'Poppins', sans-serif;
+
+/* Font Config */
+$Font-Family: $Poppin;
+
+/* Layout */
+$Header-Height: 90px;
+$Footer-Height: 50px;
+$Frame-Width: 1140px;
+$Mobile-Width: 767px;	// #Todo: remove this and instead worth with mobile first approach (using $Tablet-Width breakpoint)
+$Tablet-Width: 768px;

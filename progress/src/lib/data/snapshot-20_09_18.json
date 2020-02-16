@@ -1,0 +1,283 @@
+
+{
+	"comments" : {
+	  "-LMP_3Zn7thiSGz6eWiK" : {
+		"-LMn_DceMqpkrZDuzNG-" : {
+		  "content" : "trapanese",
+		  "authorId" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2"
+		}
+	  },
+	  "-LMP_3_8roFMZHJDsRcL" : {
+		"-LMn_QFcPrRrMfBXZEp5" : {
+		  "content" : "or is it?",
+		  "authorId" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2"
+		}
+	  },
+	  "-LMguHnFQpwFGs3b1wfA" : {
+		"-LMn_o2XAluVU06g3t5y" : {
+		  "content" : "hello Zimzams1",
+		  "authorId" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2"
+		}
+	  },
+	  "-LMh_edi4JT6J0A209d6" : {
+		"-LMn_KPhN45DhZbWDJlN" : {
+		  "content" : "sah andrew dud",
+		  "authorId" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2"
+		}
+	  },
+	  "-LMldNw5AvpZljdKK_rU" : {
+		"-LMlzad6l1V7WsEetGYJ" : {
+		  "content" : "This is my opinion!!!",
+		  "authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+		}
+	  },
+	  "-LMlgY_44V6W5BJDb8mw" : {
+		"-LMlzUH7UvN9Ane6KMza" : {
+		  "content" : "Test comment",
+		  "authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+		},
+		"-LMm-XvxcU1uULjgxwqT" : {
+		  "content" : "test succesful!",
+		  "authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+		},
+		"-LMm-gki3wdYHS3npJaS" : {
+		  "content" : "Look at all these comments!",
+		  "authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+		},
+		"-LMn_Ufb4Rjs40K74gQB" : {
+		  "content" : "hola",
+		  "authorId" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2"
+		},
+		"-LMn_aZwoIYI4hz9zRl0" : {
+		  "content" : "omg slide in these DMs g",
+		  "authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+		}
+	  },
+	  "-LMnPutjUbdt0xXrzLkf" : {
+		"-LMnZHYWDjW2emQ286dx" : {
+		  "content" : "Test",
+		  "authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+		},
+		"-LMnZIhDTN0cZ1y-VF8D" : {
+		  "content" : "oh",
+		  "authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+		}
+	  },
+	  "-LMnaVewSKYGkZyUJSB_" : {
+		"-LMnagSjE2hYFHYVrmMB" : {
+		  "content" : "+1 rep",
+		  "authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+		},
+		"-LMnalfi3NQNWTaZjgHK" : {
+		  "content" : "don't let your dreams be memes",
+		  "authorId" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2"
+		}
+	  }
+	},
+	"posts" : {
+	  "-LMPJc2wolbyWHObNnvT" : {
+		"content" : "Hello World!!",
+		"title" : "First Post",
+		"authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+	  },
+	  "-LMPJoxihusHmHU9GUxu" : {
+		"content" : "hey",
+		"title" : "Demo post1",
+		"authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+	  },
+	  "-LMPOwhrqJw3e3njqTKK" : {
+		"content" : "Message body..",
+		"title" : "Progress Made",
+		"authorId" : "UaJ022KHjydnF930hgHQEFx7dVG2"
+	  },
+	  "-LMPWsF4v0p6qQg5pPXG" : {
+		"content" : "hmm...",
+		"title" : "Test Post",
+		"authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+	  },
+	  "-LMPXqUg0rTH5DXLGoQ3" : {
+		"content" : "It's working.",
+		"title" : "Great Work!",
+		"authorId" : "UaJ022KHjydnF930hgHQEFx7dVG2"
+	  },
+	  "-LMPZIcDNfBaY8KhkiDP" : {
+		"_id" : "-LMPZIcDNfBaY8KhkiDP",
+		"content" : "The US Dollar ($) is the legal tender used in the United States of America. ",
+		"tags" : [ "U.S. ", "currency" ],
+		"title" : "History of the US Dollar - $",
+		"authorId" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2"
+	  },
+	  "-LMP_3Zn7thiSGz6eWiK" : {
+		"content" : "Over time, the meaning has changed into the modern meaning of \"cute\", and the pronunciation changed to かわゆい \"kawayui,\" \n\nThen to the more modern かわいい kawaii.",
+		"title" : "Kawaii (かわいい)",
+		"authorId" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2"
+	  },
+	  "-LMP_3_8roFMZHJDsRcL" : {
+		"content" : "Yes it is\n",
+		"title" : "Hello there",
+		"authorId" : "UaJ022KHjydnF930hgHQEFx7dVG2"
+	  },
+	  "-LMP__d2DwDOGO1-qOUC" : {
+		"_id" : "-LMP__d2DwDOGO1-qOUC",
+		"content" : "''Teemo rides a thin line between chipper compatriot and unrepentant killer, but there's no one else I'd rather have as a friend.''",
+		"tags" : [ "league of legends", "best champ don't @ me" ],
+		"title" : "Teemo",
+		"authorId" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2"
+	  },
+	  "-LMPakmlGa17rYy-3HnA" : {
+		"content" : ".NET Framework (pronounced dot net lol) is a software framework developed by Microsoft that runs primarily on Microsoft Windows.",
+		"title" : ".NET Framework",
+		"authorId" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2"
+	  },
+	  "-LMPbzU_mLKlsj-nNYkX" : {
+		"_id" : "-LMPbzU_mLKlsj-nNYkX",
+		"content" : "1. A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractile claws and a bark! \n\n2. May also be defined as Shiba Inu dog accompanied by multi-coloured text with Comic Sans font in the foreground.",
+		"tags" : [ "dogs", "memes" ],
+		"title" : "doge",
+		"authorId" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2"
+	  },
+	  "-LMSDVdjVL38UEtNYtjt" : {
+		"content" : "But now it is something greater.",
+		"title" : "This was once a placeholder post",
+		"authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+	  },
+	  "-LMSDZMVsXffY1o4uffp" : {
+		"_id" : "-LMSDZMVsXffY1o4uffp",
+		"parentId" : "-LMdGZVEwAzNJ4u8veoM",
+		"title" : "Video editing is an art",
+		"authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+	  },
+	  "-LMScuNFfQ8XvGVYsulF" : {
+		"content" : "Jeez",
+		"title" : "My Posts Are Showing",
+		"authorId" : "UaJ022KHjydnF930hgHQEFx7dVG2"
+	  },
+	  "-LMdGZVEwAzNJ4u8veoM" : {
+		"_id" : "-LMdGZVEwAzNJ4u8veoM",
+		"content" : "# This is my first well formatted post.\n\nI kind of like it\n- a fair bit\n- [ ] niiice",
+		"title" : "Nice.",
+		"authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+	  },
+	  "-LMdH9RyKlGdPozKo-un" : {
+		"content" : "Shiiiiiiiit son!",
+		"title" : "My first post",
+		"authorId" : "rvYkZh2BDoSadXp7APMaeZV6s643"
+	  },
+	  "-LMgSfpdQDTKjO-pp7xH" : {
+		"content" : "<marquee> test? </marquee>",
+		"title" : "Something Smart",
+		"authorId" : "8G0lrO7yBOc5d2SNP8JCF6u1iA82"
+	  },
+	  "-LMgtBMIVKeKyOEMnO1f" : {
+		"content" : "this content wont reload on edit\n",
+		"parentId" : "-LMdH9RyKlGdPozKo-un",
+		"title" : "cant publish with no title fam",
+		"authorId" : "8G0lrO7yBOc5d2SNP8JCF6u1iA82"
+	  },
+	  "-LMguHnFQpwFGs3b1wfA" : {
+		"content" : "- [ ] does not work in preview",
+		"title" : "checkbox",
+		"authorId" : "8G0lrO7yBOc5d2SNP8JCF6u1iA82"
+	  },
+	  "-LMgv-p66_S6U7YprAnd" : {
+		"content" : "# should be really big",
+		"title" : "This preview",
+		"authorId" : "8G0lrO7yBOc5d2SNP8JCF6u1iA82"
+	  },
+	  "-LMhVB5LhAKo8CGXYvzE" : {
+		"content" : "I think that's cool\n\n# I really do\n\nNot only cool but:\n- sweet\n- dandy\n- nice.",
+		"title" : "Now there's a new layout",
+		"authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+	  },
+	  "-LMhXaJzFzD5NV3VmGXR" : {
+		"content" : "oooooo did michael do it right?\n\n# WHO KNOWS!",
+		"parentId" : "-LMPJc2wolbyWHObNnvT",
+		"title" : "This is the test post",
+		"authorId" : "rvYkZh2BDoSadXp7APMaeZV6s643"
+	  },
+	  "-LMhYMpFPwW47FX7Tcvs" : {
+		"_id" : "-LMhYMpFPwW47FX7Tcvs",
+		"content" : "I admire your *bravery* in writing so much text assuming it wouldn't get **deleted**",
+		"parentId" : "-LMhXaJzFzD5NV3VmGXR",
+		"title" : "Whoop",
+		"authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+	  },
+	  "-LMh_edi4JT6J0A209d6" : {
+		"content" : "This box is wacky",
+		"title" : "Howdy fellas",
+		"authorId" : "mHYW1ZH7fQhUHSgXaQoVAYN0jYj1"
+	  },
+	  "-LMihG4EylhTKDFuWxLy" : {
+		"_id" : "-LMihG4EylhTKDFuWxLy",
+		"content" : "## But it lets you add titles\n\n#### of all sorts of sizes\n- and lists\n- did i mention lists?\n\n*nice*\n\n**real  nice**\n\n```\nlots of code\n```\n\n`some code`",
+		"parentId" : "-LMh_edi4JT6J0A209d6",
+		"tags" : [ "test" ],
+		"title" : "The box may be wacky",
+		"authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+	  },
+	  "-LMldNw5AvpZljdKK_rU" : {
+		"_id" : "-LMldNw5AvpZljdKK_rU",
+		"content" : "Ahhh\n*nice*",
+		"parentId" : "-LMdH9RyKlGdPozKo-un",
+		"title" : "This is Whack",
+		"authorId" : "UaJ022KHjydnF930hgHQEFx7dVG2"
+	  },
+	  "-LMlgY_44V6W5BJDb8mw" : {
+		"content" : "WOWOWWW",
+		"title" : "Hello",
+		"authorId" : "UaJ022KHjydnF930hgHQEFx7dVG2"
+	  },
+	  "-LMnPutjUbdt0xXrzLkf" : {
+		"_id" : "-LMnPutjUbdt0xXrzLkf",
+		"content" : "This is to test all my tags",
+		"tags" : [ "I'm", "gonna", "tag", "everything", "try", "and", "stop", "me" ],
+		"title" : "Test",
+		"authorId" : "MynBEJNsBnNxekYkfv1ufLDD9052"
+	  },
+	  "-LMnaVewSKYGkZyUJSB_" : {
+		"_id" : "-LMnaVewSKYGkZyUJSB_",
+		"content" : "![pepe](https://ichef.bbci.co.uk/news/660/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg)",
+		"tags" : [ "YOU GUYS HAVE TO CLICK THIS POST" ],
+		"title" : "Pepe",
+		"authorId" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2"
+	  }
+	},
+	"users" : {
+	  "8G0lrO7yBOc5d2SNP8JCF6u1iA82" : {
+		"_id" : "8G0lrO7yBOc5d2SNP8JCF6u1iA82",
+		"email" : "alexandrezimmerman@googlemail.com",
+		"photoURL" : "https://lh3.googleusercontent.com/-9MqVNovRlGQ/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaPnM8q2MVO6xhpWRODYgixTB1V44g/mo/photo.jpg",
+		"username" : "Zimzams1"
+	  },
+	  "MynBEJNsBnNxekYkfv1ufLDD9052" : {
+		"_id" : "MynBEJNsBnNxekYkfv1ufLDD9052",
+		"email" : "michael.fitzhavey@gmail.com",
+		"photoURL" : "https://lh3.googleusercontent.com/-BP6G5pFH4Lo/AAAAAAAAAAI/AAAAAAAAMuA/9bMU5Dt9_R4/photo.jpg",
+		"username" : "mikeTestAccount"
+	  },
+	  "SiNnhFepLIgDCGQwQz7DxmeCLyJ2" : {
+		"_id" : "SiNnhFepLIgDCGQwQz7DxmeCLyJ2",
+		"email" : "sulaymanrashid1@googlemail.com",
+		"photoURL" : "https://lh5.googleusercontent.com/-S0lTWpoMk2M/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaO9Aox3LxrwKetpMdsoN2So3MZhQg/mo/photo.jpg",
+		"username" : "Suli"
+	  },
+	  "UaJ022KHjydnF930hgHQEFx7dVG2" : {
+		"_id" : "UaJ022KHjydnF930hgHQEFx7dVG2",
+		"email" : "jackdewinter1@gmail.com",
+		"photoURL" : "https://lh6.googleusercontent.com/-8zhHv-WIQ5w/AAAAAAAAAAI/AAAAAAABzsc/NCjDEV-cx04/photo.jpg",
+		"username" : "jack"
+	  },
+	  "mHYW1ZH7fQhUHSgXaQoVAYN0jYj1" : {
+		"_id" : "mHYW1ZH7fQhUHSgXaQoVAYN0jYj1",
+		"email" : "andrew12lewis@gmail.com",
+		"photoURL" : "https://lh4.googleusercontent.com/-TTqD_iCXZbU/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMUD5noVi5QRNu4TsE-KXfg57BqpA/mo/photo.jpg",
+		"username" : "myheadhurtsforsomereasonmaybeaflashbackidk"
+	  },
+	  "rvYkZh2BDoSadXp7APMaeZV6s643" : {
+		"_id" : "rvYkZh2BDoSadXp7APMaeZV6s643",
+		"email" : "charlie.lanc@gmail.com",
+		"photoURL" : "https://lh5.googleusercontent.com/-bneKoNjT1Sc/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaPvS242TxJNMHTm5Ucg-K9qFgOjIQ/mo/photo.jpg",
+		"username" : "Charlie"
+	  }
+	}
+  }
