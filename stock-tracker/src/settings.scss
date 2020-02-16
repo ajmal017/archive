@@ -1,0 +1,26 @@
+/* Colours */
+// useful: http://colormind.io/, https://coolors.co/
+$Orange-Light: #F2A324;
+$White-Blue: #EDF2F4;
+$Orange: #F36523;
+$Grey-Light: #384245;
+$Grey-Dark: #252525;
+
+/* Colour Config */
+$Background-Colour: $White-Blue;
+$Theme-Colour: $Orange;
+$Theme-Alt-Colour: $Grey-Dark;
+$Highlight-Colour: $Orange-Light;
+$Text-Colour: $Grey-Dark;
+
+/* Fonts */
+$Montserrat: 'Montserrat', sans-serif;
+
+/* Font Config */
+$Font-Family: $Montserrat;
+
+/* Layout */
+$Header-Height: calc(120px - 1rem);
+$Footer-Height: 100px;
+$Frame-Width: 1140px;
+$Mobile-Width: 767px;
