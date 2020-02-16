@@ -1,0 +1,634 @@
+{
+	"items_per_page": 20,
+	"page_number": 1,
+	"start_index": 0,
+	"items": [
+		{
+			"company_number": "11446630",
+			"address_snippet": "181 Mitcham Lane, London, United Kingdom, SW16 6NA",
+			"company_status": "active",
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"links": {
+				"self": "/company/11446630"
+			},
+			"matches": {
+				"snippet": [],
+				"title": [
+					1,
+					5,
+					7,
+					10
+				]
+			},
+			"title": "ABBEY CODE LTD",
+			"kind": "searchresults#company",
+			"description": "11446630 - Incorporated on  3 July 2018",
+			"company_type": "ltd",
+			"date_of_creation": "2018-07-03",
+			"snippet": "",
+			"address": {
+				"postal_code": "SW16 6NA",
+				"address_line_1": "Mitcham Lane",
+				"country": "United Kingdom",
+				"premises": "181",
+				"locality": "London"
+			}
+		},
+		{
+			"date_of_creation": "2017-06-16",
+			"company_type": "ltd",
+			"snippet": "",
+			"address": {
+				"region": "Surrey",
+				"locality": "New Malden",
+				"premises": "6",
+				"country": "United Kingdom",
+				"postal_code": "KT3 5AH",
+				"address_line_1": "Presburg Road"
+			},
+			"kind": "searchresults#company",
+			"description": "10823934 - Incorporated on 16 June 2017",
+			"matches": {
+				"snippet": [],
+				"title": [
+					5,
+					8
+				]
+			},
+			"title": "ABC CODE LTD",
+			"company_status": "active",
+			"company_number": "10823934",
+			"address_snippet": "6 Presburg Road, New Malden, Surrey, United Kingdom, KT3 5AH",
+			"links": {
+				"self": "/company/10823934"
+			},
+			"description_identifier": [
+				"incorporated-on"
+			]
+		},
+		{
+			"date_of_creation": "2011-12-30",
+			"company_type": "ltd",
+			"snippet": "",
+			"address": {
+				"postal_code": "BS8 2AG",
+				"address_line_1": "179 Whiteladies Road",
+				"address_line_2": "Clifton",
+				"premises": "Studio 208",
+				"locality": "Bristol"
+			},
+			"description": "07894233 - Incorporated on 30 December 2011",
+			"kind": "searchresults#company",
+			"matches": {
+				"snippet": [],
+				"title": [
+					10,
+					13
+				]
+			},
+			"title": "ABSTRACT CODE LIMITED",
+			"company_status": "active",
+			"address_snippet": "Studio 208 179 Whiteladies Road, Clifton, Bristol, BS8 2AG",
+			"company_number": "07894233",
+			"links": {
+				"self": "/company/07894233"
+			},
+			"description_identifier": [
+				"incorporated-on"
+			]
+		},
+		{
+			"description": "11226604 - Incorporated on 27 February 2018",
+			"kind": "searchresults#company",
+			"snippet": "CLAIM 4 BREACH HIGHWAY CODE ",
+			"company_type": "ltd",
+			"date_of_creation": "2018-02-27",
+			"address": {
+				"postal_code": "CF24 0EB",
+				"address_line_1": "2 Fitzalan Road",
+				"locality": "Cardiff",
+				"country": "United Kingdom",
+				"premises": "Brunel  House, 15th Floor"
+			},
+			"company_status": "active",
+			"company_number": "11226604",
+			"address_snippet": "Brunel  House, 15th Floor, 2 Fitzalan Road, Cardiff, United Kingdom, CF24 0EB",
+			"links": {
+				"self": "/company/11226604"
+			},
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"matches": {
+				"snippet": [
+					24,
+					27
+				]
+			},
+			"title": "ACCIDENT CLAIM ONLINE LTD."
+		},
+		{
+			"date_of_creation": "2017-03-13",
+			"company_type": "ltd",
+			"snippet": "",
+			"address": {
+				"address_line_1": "19 Lever Street",
+				"postal_code": "M1 1AN",
+				"premises": "Suite 105",
+				"country": "United Kingdom",
+				"locality": "Manchester"
+			},
+			"kind": "searchresults#company",
+			"description": "10665317 - Incorporated on 13 March 2017",
+			"matches": {
+				"title": [
+					10,
+					13
+				],
+				"snippet": []
+			},
+			"title": "ADAPTIVE CODE LTD",
+			"address_snippet": "Suite 105 19 Lever Street, Manchester, United Kingdom, M1 1AN",
+			"company_number": "10665317",
+			"company_status": "active",
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"links": {
+				"self": "/company/10665317"
+			}
+		},
+		{
+			"links": {
+				"self": "/company/06585993"
+			},
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"company_status": "active",
+			"company_number": "06585993",
+			"address_snippet": "Suite 2d Crossley Davis Kent Enterprise House, The Links, Herne Bay, Kent, England, CT6 7GQ",
+			"title": "ADAPTIVE PROJECT TEAMS LIMITED",
+			"matches": {
+				"snippet": [
+					1,
+					4
+				]
+			},
+			"description": "06585993 - Incorporated on  7 May 2008",
+			"kind": "searchresults#company",
+			"address": {
+				"postal_code": "CT6 7GQ",
+				"address_line_1": "Crossley Davis Kent Enterprise House",
+				"premises": "Suite 2d",
+				"country": "England",
+				"region": "Kent",
+				"locality": "Herne Bay",
+				"address_line_2": "The Links"
+			},
+			"company_type": "ltd",
+			"snippet": "CODE CONSULTANCY SERVICES ",
+			"date_of_creation": "2008-05-07"
+		},
+		{
+			"matches": {
+				"snippet": [],
+				"title": [
+					7,
+					12
+				]
+			},
+			"title": "AGILE CODERS LTD",
+			"company_status": "active",
+			"company_number": "11017919",
+			"address_snippet": "Agile Coders Ltd Duke Studios, 3 Sheaf Street, Leeds, United Kingdom, LS10 1HD",
+			"links": {
+				"self": "/company/11017919"
+			},
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"company_type": "ltd",
+			"date_of_creation": "2017-10-17",
+			"snippet": "",
+			"address": {
+				"locality": "Leeds",
+				"country": "United Kingdom",
+				"premises": "Agile Coders Ltd Duke Studios",
+				"address_line_1": "3 Sheaf Street",
+				"postal_code": "LS10 1HD"
+			},
+			"description": "11017919 - Incorporated on 17 October 2017",
+			"kind": "searchresults#company"
+		},
+		{
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"links": {
+				"self": "/company/11126591"
+			},
+			"company_number": "11126591",
+			"address_snippet": "39  West Cliffe Terrace, Harrogate, North Yorkshire, United Kingdom, HG2 0PU",
+			"company_status": "active",
+			"matches": {
+				"snippet": [],
+				"title": [
+					7,
+					10
+				]
+			},
+			"title": "AGILE CODE SOLUTIONS LIMITED",
+			"description": "11126591 - Incorporated on 28 December 2017",
+			"kind": "searchresults#company",
+			"address": {
+				"postal_code": "HG2 0PU",
+				"address_line_1": "West Cliffe Terrace",
+				"locality": "Harrogate",
+				"region": "North Yorkshire",
+				"premises": "39 ",
+				"country": "United Kingdom"
+			},
+			"company_type": "ltd",
+			"date_of_creation": "2017-12-28",
+			"snippet": ""
+		},
+		{
+			"kind": "searchresults#company",
+			"description": "07013123 - Incorporated on  8 September 2009",
+			"date_of_creation": "2009-09-08",
+			"company_type": "ltd",
+			"snippet": "",
+			"address": {
+				"postal_code": "SY5 0JH",
+				"address_line_1": "Minsterley",
+				"premises": "Druids Castle White Gritt",
+				"region": "Shropshire",
+				"locality": "Shrewsbury"
+			},
+			"company_status": "active",
+			"address_snippet": "Druids Castle White Gritt, Minsterley, Shrewsbury, Shropshire, SY5 0JH",
+			"company_number": "07013123",
+			"links": {
+				"self": "/company/07013123"
+			},
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"matches": {
+				"title": [
+					5,
+					8
+				],
+				"snippet": []
+			},
+			"title": "AIR CODE VISION LIMITED"
+		},
+		{
+			"kind": "searchresults#company",
+			"description": "03943652 - Incorporated on  9 March 2000",
+			"company_type": "ltd",
+			"snippet": "",
+			"date_of_creation": "2000-03-09",
+			"address": {
+				"region": "Devon",
+				"locality": "Ivybridge",
+				"premises": "Ludbrook House",
+				"address_line_1": "Ludbrook",
+				"postal_code": "PL21 0LL"
+			},
+			"company_number": "03943652",
+			"address_snippet": "Ludbrook House, Ludbrook, Ivybridge, Devon, PL21 0LL",
+			"company_status": "active",
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"links": {
+				"self": "/company/03943652"
+			},
+			"matches": {
+				"snippet": [],
+				"title": [
+					6,
+					15
+				]
+			},
+			"title": "AJ & CO.(DEVON) LTD"
+		},
+		{
+			"snippet": "",
+			"company_type": "ltd",
+			"date_of_creation": "2017-05-24",
+			"address": {
+				"address_line_2": "South Norwood",
+				"locality": "London",
+				"premises": "23",
+				"country": "United Kingdom",
+				"postal_code": "SE25 5QU",
+				"address_line_1": "Denmark Road"
+			},
+			"description": "10788057 - Incorporated on 24 May 2017",
+			"kind": "searchresults#company",
+			"title": "A LADY'S DRESS CODE LTD",
+			"matches": {
+				"snippet": [],
+				"title": [
+					16,
+					19
+				]
+			},
+			"company_status": "active",
+			"company_number": "10788057",
+			"address_snippet": "23 Denmark Road, South Norwood, London, United Kingdom, SE25 5QU",
+			"links": {
+				"self": "/company/10788057"
+			},
+			"description_identifier": [
+				"incorporated-on"
+			]
+		},
+		{
+			"description": "09358742 - Incorporated on 17 December 2014",
+			"kind": "searchresults#company",
+			"address": {
+				"postal_code": "SE16 4DQ",
+				"address_line_1": "Webster Road Webster Road",
+				"premises": "25 ",
+				"country": "United Kingdom",
+				"locality": "London"
+			},
+			"company_type": "ltd",
+			"snippet": "",
+			"date_of_creation": "2014-12-17",
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"links": {
+				"self": "/company/09358742"
+			},
+			"company_number": "09358742",
+			"address_snippet": "25  Webster Road Webster Road, London, United Kingdom, SE16 4DQ",
+			"company_status": "active",
+			"matches": {
+				"snippet": [],
+				"title": [
+					6,
+					11
+				]
+			},
+			"title": "ALEX CODERS LTD"
+		},
+		{
+			"company_type": "ltd",
+			"snippet": "",
+			"date_of_creation": "2017-04-07",
+			"address": {
+				"address_line_1": "Bayham Street",
+				"postal_code": "NW1 0AG",
+				"locality": "London",
+				"country": "England",
+				"premises": "85-87"
+			},
+			"kind": "searchresults#company",
+			"description": "10714972 - Incorporated on  7 April 2017",
+			"matches": {
+				"title": [
+					13,
+					16
+				],
+				"snippet": []
+			},
+			"title": "ALL CONCEPT CODE LIMITED",
+			"company_status": "active",
+			"address_snippet": "85-87 Bayham Street, London, England, NW1 0AG",
+			"company_number": "10714972",
+			"links": {
+				"self": "/company/10714972"
+			},
+			"description_identifier": [
+				"incorporated-on"
+			]
+		},
+		{
+			"description": "08516772 - Incorporated on  3 May 2013",
+			"kind": "searchresults#company",
+			"address": {
+				"address_line_2": "Nobottle",
+				"premises": "3a",
+				"region": "Northamptonshire",
+				"locality": "Northampton",
+				"postal_code": "NN7 4HD",
+				"address_line_1": "Green Lodge Barn"
+			},
+			"company_type": "ltd",
+			"snippet": "",
+			"date_of_creation": "2013-05-03",
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"links": {
+				"self": "/company/08516772"
+			},
+			"address_snippet": "3a Green Lodge Barn, Nobottle, Northampton, Northamptonshire, NN7 4HD",
+			"company_number": "08516772",
+			"company_status": "active",
+			"matches": {
+				"snippet": [],
+				"title": [
+					12,
+					15
+				]
+			},
+			"title": "ALL THINGS CODE LIMITED"
+		},
+		{
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"links": {
+				"self": "/company/10047604"
+			},
+			"company_number": "10047604",
+			"address_snippet": "3 Trewint Street, London, SW18 4HA",
+			"company_status": "active",
+			"title": "AM CODE LIMITED",
+			"matches": {
+				"snippet": [],
+				"title": [
+					4,
+					7
+				]
+			},
+			"description": "10047604 - Incorporated on  7 March 2016",
+			"kind": "searchresults#company",
+			"address": {
+				"postal_code": "SW18 4HA",
+				"address_line_1": "Trewint Street",
+				"locality": "London",
+				"premises": "3"
+			},
+			"snippet": "",
+			"company_type": "ltd",
+			"date_of_creation": "2016-03-07"
+		},
+		{
+			"description": "03140148 - Incorporated on 21 December 1995",
+			"kind": "searchresults#company",
+			"company_type": "ltd",
+			"snippet": "CODETOP ",
+			"date_of_creation": "1995-12-21",
+			"address": {
+				"postal_code": "SW1Y 5AN",
+				"address_line_1": "Carlton House Terrace",
+				"premises": "20",
+				"address_line_2": "London"
+			},
+			"company_number": "03140148",
+			"address_snippet": "20 Carlton House Terrace, London, SW1Y 5AN",
+			"company_status": "active",
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"links": {
+				"self": "/company/03140148"
+			},
+			"matches": {
+				"snippet": [
+					1,
+					7
+				]
+			},
+			"title": "ANGLO AMERICAN AUSTRALIA INVESTMENTS LIMITED"
+		},
+		{
+			"company_type": "ltd",
+			"snippet": "",
+			"date_of_creation": "2016-02-03",
+			"address": {
+				"address_line_1": "St Andrews Court",
+				"postal_code": "OX9 3WT",
+				"address_line_2": "Wellington Street",
+				"premises": "6a ",
+				"country": "United Kingdom",
+				"region": "Oxfordshire",
+				"locality": "Thame"
+			},
+			"description": "09985153 - Incorporated on  3 February 2016",
+			"kind": "searchresults#company",
+			"matches": {
+				"title": [
+					14,
+					17
+				],
+				"snippet": []
+			},
+			"title": "ANIMADE WITH CODE LTD",
+			"company_number": "09985153",
+			"address_snippet": "6a  St Andrews Court, Wellington Street, Thame, Oxfordshire, United Kingdom, OX9 3WT",
+			"company_status": "active",
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"links": {
+				"self": "/company/09985153"
+			}
+		},
+		{
+			"title": "ANSH CODE WORKS LTD",
+			"matches": {
+				"snippet": [],
+				"title": [
+					6,
+					9
+				]
+			},
+			"links": {
+				"self": "/company/07809618"
+			},
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"company_status": "active",
+			"company_number": "07809618",
+			"address_snippet": "11  Morris Close, Croydon, England, CR0 7RD",
+			"address": {
+				"premises": "11 ",
+				"country": "England",
+				"locality": "Croydon",
+				"postal_code": "CR0 7RD",
+				"address_line_1": "Morris Close"
+			},
+			"company_type": "ltd",
+			"date_of_creation": "2011-10-13",
+			"snippet": "",
+			"kind": "searchresults#company",
+			"description": "07809618 - Incorporated on 13 October 2011"
+		},
+		{
+			"description": "09891643 - Incorporated on 27 November 2015",
+			"kind": "searchresults#company",
+			"company_type": "ltd",
+			"date_of_creation": "2015-11-27",
+			"snippet": "",
+			"address": {
+				"address_line_1": "Flat 7, 153 Whitecross Street",
+				"postal_code": "EC1Y 8JL",
+				"locality": "London",
+				"premises": "153",
+				"country": "United Kingdom"
+			},
+			"company_status": "active",
+			"address_snippet": "153 Flat 7, 153 Whitecross Street, London, United Kingdom, EC1Y 8JL",
+			"company_number": "09891643",
+			"links": {
+				"self": "/company/09891643"
+			},
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"title": "ANTARES CODE LIMITED",
+			"matches": {
+				"title": [
+					9,
+					12
+				],
+				"snippet": []
+			}
+		},
+		{
+			"description": "10973232 - Incorporated on 20 September 2017",
+			"kind": "searchresults#company",
+			"company_type": "ltd",
+			"snippet": "",
+			"date_of_creation": "2017-09-20",
+			"address": {
+				"postal_code": "E14 8PG",
+				"address_line_1": "Alpha Grove",
+				"premises": "126 ",
+				"country": "United Kingdom",
+				"locality": "London"
+			},
+			"company_status": "active",
+			"address_snippet": "126  Alpha Grove, London, United Kingdom, E14 8PG",
+			"company_number": "10973232",
+			"links": {
+				"self": "/company/10973232"
+			},
+			"description_identifier": [
+				"incorporated-on"
+			],
+			"matches": {
+				"title": [
+					9,
+					12
+				],
+				"snippet": []
+			},
+			"title": "ANTARES CODE STUDIO LTD"
+		}
+	],
+	"kind": "search#companies",
+	"total_results": 6912
+}
