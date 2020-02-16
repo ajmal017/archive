@@ -1,0 +1,23 @@
+@import './colours.scss';
+@import './layout.scss';
+@import './helper-classes.scss';
+
+/* Defaults */
+a {
+	text-decoration: none;
+
+	&:hover {
+		text-decoration: none;
+		font-weight: bold;
+	}
+
+	img {
+		transition: transform 200ms;
+
+		&:hover {
+			transform: rotate(30deg);
+		}
+	}
+}
+
+
