@@ -1,0 +1,9 @@
+- (1) friends and friends of friends (2) University. Non-UCLsign-ups can only access friends and friends of friends until Ship is launched in their uni.
+- toggle "I don't want crushers to know I've rejected them"
+- sign out
+- sound on/off
+- show when your active?
+- payments
+- about (simple hyperlink)
+- terms (simple hyperlink)
+- ability to blacklist certain friends

@@ -1,0 +1,27 @@
+/* Colours */
+// useful: http://colormind.io/, https://coolors.co/
+$Red-Light: #9C3936;
+$Red-Dark: #270a05;
+$Orange: #D77D59;
+$Tan: #DEC698;
+$Blue: #7BC3B1;
+$Cream: #f5ede0;
+
+/* Colour Config */
+$Background-Colour: white;
+$Theme-Colour: $Red-Light;
+$Theme-Alt-Colour: $Cream;
+$Highlight-Colour: $Tan;
+$Text-Colour: $Red-Dark;
+
+/* Fonts */
+$Nunito: 'Nunito', sans-serif;
+
+/* Font Config */
+$Font-Family: $Nunito;
+
+/* Layout */
+$Header-Height: 75px;
+$Footer-Height: 100px;
+$Frame-Width: 1140px;
+$Mobile-Width: 767px;
