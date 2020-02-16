@@ -1,0 +1,16 @@
+{
+  "name": "milhouse-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"deploy": "firebase deploy",
+	"deployCI": "firebase deploy --token ${FIREBASE_TOKEN}"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "firebase-tools": "^6.3.1"
+  }
+}
